@@ -1,10 +1,10 @@
 const images = [
-    "./Assets/1.png",
-    "./Assets/2.png",
-    "./Assets/3.png",
-    "./Assets/4.png",
-    "./Assets/5.png",
-    "./Assets/6.png"
+    "./Assets/1.jpg",
+    "./Assets/2.jpg",
+    "./Assets/3.jpg",
+    "./Assets/4.jpg",
+    "./Assets/5.jpg",
+    "./Assets/6.jpg"
 ]
 
 let currentIndex = 0
